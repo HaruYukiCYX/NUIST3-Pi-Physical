@@ -1,3 +1,7 @@
+#Author: Chen Yuxuan
+#Date: 2/4/2025
+#Description: This code implements a simple animal quiz.
+
 # NUIST Ouiz Game in Python
 def quiz():
     print("Welcome to the Animal Quiz!")
