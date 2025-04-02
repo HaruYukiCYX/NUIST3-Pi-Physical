@@ -1,3 +1,7 @@
+#Author: Chen Yuxuan
+#Date: 2/4/2025
+#Description: This code implements a python quiz using two LEDs to indicate wether the answer is correct or not.
+
 import RPi.GPIO as GPIO
 import time
 
