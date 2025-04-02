@@ -1,3 +1,7 @@
+#Author: Yuxuan Chen
+#Date: 2025-03-31
+#Title: LED.py
+
 import RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BCM)
